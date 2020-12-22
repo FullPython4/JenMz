@@ -1,0 +1,41 @@
+/* body{
+    background-color: rgba(190, 195, 201, 0.83);
+} */
+#imgcard{
+    width: 95%;
+    height:100%;
+    margin: auto;
+    display: block;
+}
+
+#logo {
+    width: 80px;
+    height: 80px;
+}
+
+.container {
+    margin-top: 15px;
+}
+footer{
+    background-color: rgb(36, 35, 35);
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+h3{
+    text-align: center;
+}
+h5{
+    text-align:justify left;
+}
+
+p{
+    text-align: justify center;
+}
+.card{
+    background-color: rgb(36, 35, 35);
+    padding-top: 3%;
+    border-style: dashed;
+    text-align: center;
+    color:white;
+}
